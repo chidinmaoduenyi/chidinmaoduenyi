@@ -16,7 +16,7 @@ You should check my [LinkedIn profile](https://www.linkedin.com/in/chidinmaoduen
 
 
 
-P.S: >This markdown formatting is so fun.
+P.S: This markdown formatting is so fun😋.
 
 <!--
 **Chisequ/Chisequ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
