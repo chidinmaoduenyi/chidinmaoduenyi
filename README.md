@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 Glad you are here 🤗. 
 
 I'm ***Chidinma Oduenyi***, currently taking baby steps to my goal of becoming a `Machine Learning Engineer`.
 
-## Key Skills
+### Key Skills
 
 * Coding with Python
 
