@@ -8,7 +8,7 @@ I'm ***Chidinma Oduenyi***,  currently taking baby steps to my goal of becoming 
 
 * Coding with Python
 
-* Building basic ML models with Jupyter notebook
+* Building ML models with Jupyter notebook
 
 * Enthusiastic about self-development
 
